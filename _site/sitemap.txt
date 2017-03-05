@@ -1,15 +1,15 @@
 
-http://localhost:4000/ssefick/CV/
-http://localhost:4000/ssefick/about/
-http://localhost:4000/ssefick/blog/
-http://localhost:4000/ssefick/cv/
-http://localhost:4000/ssefick/feed.xml
-http://localhost:4000/ssefick/
-http://localhost:4000/ssefick/css/main.css
-http://localhost:4000/ssefick/misc/
-http://localhost:4000/ssefick/research/
-http://localhost:4000/ssefick/research_1
-http://localhost:4000/ssefick/sitemap.txt
-http://localhost:4000/ssefick/Research/
+http://ssefick.github.io/ssefick/CV/
+http://ssefick.github.io/ssefick/about/
+http://ssefick.github.io/ssefick/blog/
+http://ssefick.github.io/ssefick/cv/
+http://ssefick.github.io/ssefick/feed.xml
+http://ssefick.github.io/ssefick/
+http://ssefick.github.io/ssefick/css/main.css
+http://ssefick.github.io/ssefick/misc/
+http://ssefick.github.io/ssefick/research/
+http://ssefick.github.io/ssefick/research_1
+http://ssefick.github.io/ssefick/sitemap.txt
+http://ssefick.github.io/ssefick/Research/
 
-http://localhost:4000/ssefick/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
+http://ssefick.github.io/ssefick/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
