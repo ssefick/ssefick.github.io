@@ -1,0 +1,204 @@
+---
+layout: page
+title: CV
+permalink: /Research/
+---
+
+PUBLICATIONS
+============
+
+Google Scholar:
+---------------
+
+-   <https://scholar.google.com/citations?user=TWH2UnIAAAAJ&hl=en>
+
+Peer Reviewed Publications
+--------------------------
+
+### Published, In Press, and Accepted
+
+1.  M.H. Paller, B.A. Prusha, D.E. Fletcher, E. Kosnicki, **S.A.
+    Sefick**, M.S. Jarrell, S.C. Sterrett, A.M. Grosse, T.D. Tuberville,
+    and J.W. Feminella. *Accepted*. Factors Influencing Stream Fish
+    Species Composition and Functional Properties at Multiple Spatial
+    Scales in the Sand Hills of the Southeastern United States.
+    Transactions of the American Fisheries Society.
+
+2.  Balenger, S.L., C. Bonneaud, **S.A. Sefick**, S.V. Edwards, G.E.
+    Hill. 2015. Plumage color and pathogen-induced gene expression in a
+    wild songbird. Behavioral Ecology. DOI: 10.1093/beheco/arv055.
+
+3.  **Sefick, S.A.**, L. Kalin, E. Kosnicki, B.P. Schneid, M.S.
+    Jarrell, C.J. Anderson, M.H. Paller, and J.W. Feminella. 2015.
+    Empirical Estimation of Stream Discharge Using Channel Geometry in
+    Low-Gradient, Sand-Bed Streams of the Southeastern Plains. Journal
+    of the American Water Resources Association (JAWRA) 51:1060-1071.
+
+4.  Kosnicki, E., **S.A. Sefick**, M.H. Paller, M.S. Jarrell, B.A.
+    Prusha, S.C. Sterrett, T.D. Tuberville, and J.W. Feminella. 2014.
+    Defining the reference condition for wadeable streams in the Sand
+    Hills subdivision of the Southeastern Plains ecoregion, USA.
+    Environmental Management 54:494-504.
+
+5.  Oliver, J. E., **S. A. Sefick**, J. K. Parker, T. Arnold, P. A.
+    Cobine, and L. De La Fuente. 2014. Ionome changes in *Xylella
+    fastidiosa*-infected *Nicotiana tabacum* correlate with the
+    virulence and discriminate between subspecies of bacterial isolates.
+    Molecular Plant-Microbe Interactions 27:1048-1058.
+
+### In Review
+
+1.  Stevison, L., **S. Sefick**, C. Rushton, and R. Graze. Recombination
+    rate plasticity: revealing mechanisms by design. Philosophical
+    Transactions of the Royal Society B.
+2.  **Sefick, S.A.**, E. Kosnicki, M.H. Paller, and J.W. Feminella.
+    Hydrogeomorphic reference condition and its relationship with
+    macroinvertebrate assemblages in Southeastern US Sand Hills streams.
+    Freshwater Science.
+
+### In Preparation
+
+1.  **Sefick, S.A.**, E. Kosnicki, M.H. Paller, and J.W. Feminella.
+    In Prep. Direct and indirect effects of landcover on
+    macroinvertebrate assemblage structure in Southeastern Plains,
+    USA, streams. (Target: Ecological Applications).
+
+2.  **Sefick, S.A.**, N.E. Norieka, and J.W. Feminella. In Prep.
+    Deterministic species sorting in response to simulated hydrologic
+    disturbance in Southeastern Plains streams. (Target: Ecology).
+
+3.  **Sefick, S.A.**. StreamMetabolism: An R package for calculating
+    single station metabolism from diurnal Oxygen curves. (Target: The
+    R Journal).
+
+Non-Refereed Publications
+-------------------------
+
+### Proceedings Manuscripts (\* presenter)
+
+1.  Moak, J.W.\*, B.S. Metts, **S.A. Sefick**, G.W. Eidson, and O.P.
+    Filte. 2010. Results of an intensive water quality study of the
+    middle and lower Savannah River Basin. Proceedings of the 2010 South
+    Carolina Water Resources Conference, held October 13-14, 2010, at
+    the Columbia Metropolitan Convention Center. (published
+    proceedings manuscript)
+
+2.  Paller, M.\*, J.W. Feminella, E. Kosnicki, **S.A. Sefick**, M.
+    Jarrell, D. Fletcher,T. Tuberville, S. Sterrett, A. Grosse, B.
+    Prusha. 2010. Ecological Reference Models for Blackwater Streams: a
+    Prerequisite for Successful Ecosystem Recovery and Management.
+    Proceedings of the 2010 South Carolina Water Resources Conference,
+    held October 13-14, 2010, at the Columbia Metropolitan
+    Convention Center. (published proceedings manuscript)
+
+3.  Flite, O.\*, G. Eidson, J. Moak, B. Metts, **S.A. Sefick**. 2008
+    .Overview of stable Isotopes results from a comprehensive Savannah
+    River study. Proceedings of the 2008 South Carolina Water Resources
+    Conference, held October 14-15, 2008, at the Charleston Area
+    Event Center. (published proceedings manuscript)
+
+4.  Flite, O.\*, G. Eidson, J. Moak, B. Metts, and **S.A.
+    Sefick**. 2007. PRELIMINARY DATA FROM A COMPREHENSIVE SAVANNAH RIVER
+    STUDY: THE FIRST 6 MONTHS. 2007. Proceedings of the 2007 Georgia
+    Water Resources Conference. (published proceedings manuscript)
+
+### Reports
+
+1.  Michael Paller, Jack Feminella, Ely Kosnicki, **Stephen Sefick**,
+    Miller Jarrell, Tracey Tuberville, Dean Fletcher, Andrew Grosse,
+    Bess Harris, Sean Sterrett, Blair Prusha. 2014. DEVELOPMENT OF
+    ECOLOGICAL REFERENCE MODELS AND AN ASSESSMENT FRAMEWORK FOR STREAMS
+    ON THE ATLANTIC COASTAL PLAIN. SERDP Project RC-1694.
+
+2.  Southeastern Natural Sciences Academy. 2008. Savannah River at Risk
+    Annual Report February 2006 -- January 2008. Section 104(b)
+    CP964507-06. Annual Report to the EPA.
+
+PROFESSIONAL ORAL PRESENTATIONS (\* presenter)
+==============================================
+
+1.  **Sefick, S.A.\***, N. Noreika, and J.W. Feminalla. 2016.
+    DISTURBANCE MODIFIES THE IMPORTANCE OF DETERMINISTIC AND STOCHASTIC
+    ASSEMBLY MECHANISMS IN STREAM MACROINVERTEBRATE COMMUNITIES.\*
+    \*2016 Annual Meeting of the Society for Freshwater Sciences.
+    Sacramento, CA.
+
+2.  **Sefick, S.\***; Kosnicki, E.; Paller, M.; Feminella, J. 2015. IS
+    THE LANDCOVER CASCADE SYSTEM-SPECIFIC? A CASE STUDY IN SAND-BED
+    STREAMS OF THE SOUTHEASTERN US SANDHILLS ECOREGION. 2015 Annual
+    Meeting of the Society for Freshwater Sciences. Milwaukee, WI.
+
+3.  Helms, B.\*; **Sefick, S.**; Reithel, S.; Kosnicki, E.; Werneke, D.;
+    Schneid, B.; Zink, J.; Feminella, J.; Jennings, G. 2014. GEOMORPHIC
+    ASSESSMENTS AND INSTREAM ECOLOGICAL ENDPOINTS: INTEGRATION FOR
+    RESTORATION AND MANAGEMENT . Joint Aquatic Sciences Meeting, 2014.
+
+4.  Oliver, J.E.\*, **Sefick, S.A.**, Parker, J.K., Cobine, P.A., and De
+    La Fuente, L. Understanding Xylella fastidiosa's interactions with
+    plant hosts through the study of its effects on the host ionome.
+    Annual Meeting of the Southeastern Branch of the American Society
+    for Microbiology. 7th-9th November 2013. Auburn University, Auburn,
+    Alabama, USA.
+
+5.  **Sefick, S.A.\***, M.S. Jarrell, E. Kosnicki^1^, M.H. Paller^2^,
+    and J.W. Feminella. 2013. CHANNEL MORPHOLOGY-BENTHIC
+    MACROINVERTEBRATE TRAIT RELATIONSHIPS IN SOUTHEASTERN COASTAL
+    PLAINS STREAMS. 2013 Annual Meeting of the Society for
+    Freshwater Sciences. Jacksonville, Fl.
+
+6.  Kosnicki, E\*.; **Sefick, S.**; Jarrell, M.; Grosse, A.; Sterrett,
+    S.; Tuberville, T.; Paller, M.; Feminella, J. DEVELOPMENT OF A
+    MACROINVERTEBRATE O/E MODEL FRAMEWORK FOR ASSESSING STREAM
+    BIOLOGICAL INTEGRITY IN THE SAND HILLS OF THE SOUTHEASTERN COASTAL
+    PLAINS USA. \* \*2013 Annual Meeting of the Society for
+    Freshwater Sciences. Jacksonville, Fl.
+
+7.  Paller, M.\*; Prusha, B.; Kosnicki, E.; **Sefick, S.**; Jarrell, M.;
+    Feminella, J.; Fletcher, D.; Tuberville, T.; Grosse, A.;
+    Sterrett, S. FISH ASSEMBLAGE STRUCTURE IN MINIMALLY DISTURBED
+    STREAMS ON THE UPPER SOUTHEASTERN COASTAL PLAIN. 2013 Annual Meeting
+    of the Society for Freshwater Sciences. Jacksonville, Fl.
+
+8.  **Sefick, S.A.\***, W.R. English, J.W. Pike, K.M. Young, and G.D.
+    Jennings.2006. Macroinvertebrate community response to priority II
+    stream restoration.Annual Meeting of the North American
+    Benthological Society.
+
+9.  Pike, J.W.\*, W.R. English, **S.A. Sefick**, C.R. Smeal, M.A.
+    Goddard, J.D.Riley, and D.M. Rankin. 2006. Salvelinus fontinalis
+    (brook trout) restoration in the Southeast United States: The impact
+    of Fintrol (antimycin) on macroinvertebrate drift. Annual Meeting of
+    the North American Benthological Society.
+
+PROFESSIONAL POSTER PRESENTATIONS (\* presenter)
+================================================
+
+1.  Jonathan E. Oliver, **Stephen Sefick**, Paul A. Cobine\* and
+    Leonardo De La Fuente (2013) "Ionomic fingerprinting of plant
+    disease caused by Xylella fastidiosa" GRC: Cell Biology of Metals,
+    Salve Regina University, Rhode Island, July 28-August 2.
+
+2.  **Sefick, S. A.\***; Jarrell, M. S.; Kosnicki, E.; Schneid, B. P.;
+    Paller, M. H.; Feminella, J. W.; IS THE HYDROGEOMORPHIC REFERENCE
+    CONDITION RELATED TO BENTHIC MACROINVERTEBRATE ASSEMBLAGES IN
+    COASTAL PLAINS STREAMS? 2012. Annual Meeting of the Society for
+    Freshwater Sciences.
+
+3.  **Sefick, S. A.\***; Jarrell, M. S.; Kosnicki, E.; Paller, M. H.;
+    Feminella, J. W.; PRELIMINARY HYDROGEOMORPHIC CLASSIFICATION OF
+    STREAM REFERENCE CONDITION FOR THE ATLANTIC COASTAL PLAIN AND
+    SANDHILLS ECOREGIONS. 2011. Annual Meeting of the North American
+    Benthological Society.
+
+4.  Kosnicki, E.\*; Prusha, B. A.; Sterrett, S. C.; Grosse, A. M.,
+    **Sefick; S.A.**, Jerrell, M. S.; Tuberville, T. D.; Paller, M. H.;
+    Feminella, J. W. 2011. PRELIMINARY FISH OBSERVED TO EXPECTED (O/E)
+    MODELS FOR THE SAND HILLS SUBECOREGION OF THE SOUTHEASTERN
+    UNITED STATES. Annual Meeting of the North American
+    Benthological Society.
+
+5.  Jarrell, M. S.\*; Kosnicki, E.; Prusha, B. A.; **Sefick, S. A.**;
+    Feminella, J. A.; Paller, M. H. 2011. RIPARIAN-AQUATIC RESPONSE TO
+    TIMBER HARVEST IN A COASTAL PLAINS STREAM FOOD WEB. Annual Meeting
+    of the North American Benthological Society.
+
