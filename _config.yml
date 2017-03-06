@@ -1,6 +1,6 @@
 title: Ecology and Evolutionary Biology
 description: My website
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+sourcecode: "https://github.com/ssefick/ssefick.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
