@@ -1,15 +1,15 @@
 
-http://ssefick.github.io/ssefick/CV/
-http://ssefick.github.io/ssefick/about/
-http://ssefick.github.io/ssefick/blog/
-http://ssefick.github.io/ssefick/cv/
-http://ssefick.github.io/ssefick/feed.xml
-http://ssefick.github.io/ssefick/
-http://ssefick.github.io/ssefick/css/main.css
-http://ssefick.github.io/ssefick/misc/
-http://ssefick.github.io/ssefick/research/
-http://ssefick.github.io/ssefick/research_1
-http://ssefick.github.io/ssefick/sitemap.txt
-http://ssefick.github.io/ssefick/Research/
+http://ssefick.github.io/CV/
+http://ssefick.github.io/about/
+http://ssefick.github.io/blog/
+http://ssefick.github.io/cv/
+http://ssefick.github.io/feed.xml
+http://ssefick.github.io/
+http://ssefick.github.io/css/main.css
+http://ssefick.github.io/misc/
+http://ssefick.github.io/research/
+http://ssefick.github.io/research_1
+http://ssefick.github.io/sitemap.txt
+http://ssefick.github.io/Research/
 
-http://ssefick.github.io/ssefick/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
+http://ssefick.github.io/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
