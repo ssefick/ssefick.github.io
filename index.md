@@ -6,6 +6,6 @@ layout: page
 
 # Research Interests
 * Computational Biology
-* Ecology and Evoultionary Biology
+* Ecology and Evolutionary Biology
 * Statistical Analysis of Biological Data
-* R programing 
+* R programming 
