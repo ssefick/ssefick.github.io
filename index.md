@@ -3,6 +3,7 @@ layout: page
 ---
 
 {% include image.html url="images/cropped.jpg" caption="" max_width="300px" align="right" %}
+# Stephen Sefick
 
 # Research Interests
 * Computational Biology
