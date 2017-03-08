@@ -9,3 +9,11 @@ layout: page
 * Ecology and Evolutionary Biology
 * Statistical Analysis of Biological Data
 * R programming 
+
+# github pages
+* <https://github.com/ssefick/StreamMetabolism>
+* <https://github.com/ssefick/UsefulBioinformaticScripts>
+* <https://github.com/ssefick/R_scripts>
+
+# Stevison Lab
+* <https://sites.google.com/site/lstevison/>
