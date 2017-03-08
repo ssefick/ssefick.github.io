@@ -13,6 +13,7 @@ CONTACT INFORMATION
 -   Auburn University, AL 36849 USA
 -   Telephone: 864-985-2297
 -   Email: ssefick@auburn.edu
+-   Website: <https://ssefick.github.io/>
 
 EDUCATION
 =========
@@ -456,5 +457,7 @@ Meeting Session Moderator
 
 1.  2015 annual Society for Freshwater Sciences Meeting
 
-Alabama Biological Condition Gradient Workshop (April 21 -- April 23, 2015)
----------------------------------------------------------------------------
+Alabama Biological Condition Gradient Workshop
+----------------------------------------------
+
+1.  Sandhills Ecoregion; April 21-23, 2015

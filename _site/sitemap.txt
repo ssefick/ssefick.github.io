@@ -12,4 +12,3 @@ https://ssefick.github.io/research_1
 https://ssefick.github.io/sitemap.txt
 https://ssefick.github.io/Research/
 
-https://ssefick.github.io/blog/2017/03/06/Jekyll_Website_Github

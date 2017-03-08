@@ -5,24 +5,9 @@
     <description>My website</description>
     <link>https://ssefick.github.io/</link>
     <atom:link href="https://ssefick.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 19:21:40 -0600</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 19:21:40 -0600</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2017 21:27:26 -0600</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 21:27:26 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>My experience setting up an academic site with Github and Jekyll</title>
-        <description>&lt;p&gt;I will provide my thoughts on developing this site when I have time.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Mar 2017 00:00:00 -0600</pubDate>
-        <link>https://ssefick.github.io/blog/2017/03/06/Jekyll_Website_Github</link>
-        <guid isPermaLink="true">https://ssefick.github.io/blog/2017/03/06/Jekyll_Website_Github</guid>
-        
-        
-        <category>thoughts</category>
-        
-        <category>career development</category>
-        
-      </item>
     
   </channel>
 </rss>
